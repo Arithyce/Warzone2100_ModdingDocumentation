@@ -13,7 +13,7 @@
 	},
 ```
 
-### Modules <br>
+### Arrays <br>
 
 ```json
 		"replacedComponents": [
