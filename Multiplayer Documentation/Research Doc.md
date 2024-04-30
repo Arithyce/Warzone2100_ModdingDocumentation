@@ -64,7 +64,7 @@ For keys that accept boolean or integer boolean, removing the key is equivalent 
   - Icon shown on topic, go to [iconID](#iconid-) below for a list. <br>
 - `id`* `String` <br>
   - Needs to be the same as the JS object name, and it needs to be unique. <br>
-- `msgName` `Ssring` <br>
+- `msgName` `Sring` <br>
   - Message ID of the message inside the Intelligence Display, see `mp/messages`, Mutual Exclusion: `techCode`. <br>
 - `keyTopic` `Integer Boolean` <br>
   - Unused in multiplayer/skirmish. See the campaign documentation for it's use in campaign. <br>
