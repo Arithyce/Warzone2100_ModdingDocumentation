@@ -89,7 +89,7 @@ For keys that accept boolean or integer boolean, removing the key is equivalent 
 - `resultComponents` `String` <br>
   - Components to be made available.  The values must be in an array. <br>
 - `results` `Null` <br>
-  - Upgrades to be given, details follow. It must be an array. <br>
+  - Upgrades to be given, details follow. It must be an array containing an object. <br>
   - `class`* `String` <br>
     - Go to [Parameter Names](#parameter-names-from-the-source-code-) for a list of accepted values, each header except for `Filter Parameters` is an accepted value. <br>
   - `filterParameter` `String` <br>
