@@ -47,7 +47,7 @@
 **Note that comma placement isn't exact. You should generally leave out commas when they would be on the second to last entry.** <br>
 See ["Research Temp.md"](https://github.com/Arithyce/Warzone2100_ModdingDocumentation/blob/main/Templates/Research%20Temp.txt) for common research templates. <br>
 ***
-## Key Names from `research.json`<br>
+## Key Names from `research.json` <br>
 
 Most keys are optional, asterisk denotes mandatory, double asterisk denotes conditionally mandatory (read description). <br>
 The following will be appended to key names to denote there value type: <br>
@@ -103,4 +103,5 @@ For keys that accept boolean or integer boolean, removing the key is equivalent 
   - Icon shown on the topic, find ==subgroupIconID== below for a list. <br>
 - `techCode`** `Integer Boolean` <br>
   - No Intelligence Display entry, mandatory if `msgName` is not provided, Mutual Exclusion: `msgName`. <br>
+[Key Names](#key-names-from-researchjson-)
 ***
