@@ -1,3 +1,3 @@
-# Campaign_Documentation
+# Modding Documentation
 
-This is where i will keep my documentation of the campaign files.
+This is where i will keep my documentation of moddable files.
