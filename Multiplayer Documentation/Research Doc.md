@@ -51,7 +51,7 @@ See ["Research Temp.md"](https://github.com/Arithyce/Warzone2100_ModdingDocument
 ## Key Names from `research.json` <br>
 
 Most keys are optional, asterisk denotes mandatory, double asterisk denotes conditionally mandatory (read description). <br>
-The following will be appended to key names to denote there value type: <br>
+The following will be appended to key names to denote their value type: <br>
 Quotes are included, `compare: "old:new"`, `string: "value"`, `integer: whole number`, `float: decimal`. <br>
 `double: whole/decimal`, `boolean: false/true`, `varies: depends on parent`, `null: no value`, `integer boolean: 0=false/1=true`. <br>
 For keys that accept boolean or integer boolean, removing the key is equivalent to false. <br>
