@@ -1,0 +1,11 @@
+`'NAME'`     The name of the beacon/message.
+`~0~`        Unknown. [Set to 1 always]
+`'NAME'`     Name of message to print when you click the beacon or enter the area. [Optional]
+`[2|4]`      Number of coordinates. [Is it a position or an area?]
+`(0-32767)`  x coordinate Min. 
+`(0-32767)`  y coordinate Min. [Max; if number of coordinates used is set to 2]
+`(0-32767)`  x coordinate Max. [Leave this field out completely if set to a position]
+`(0-32767)`  y coordinate Max. [Leave this field out completely if set to a position]
+`(0-1279)`   Extra radius of detection, in absolute coordinates (128 per tile).
+`'NAME.OGG'` Name of audio file to play when you click the beacon or enter the area. [Optional]
+`(0-3)`      Beacon color; 0 = red; 1 = blue; 2 = green; 3 = yellow (Unused).

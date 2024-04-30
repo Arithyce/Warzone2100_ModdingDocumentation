@@ -1,0 +1,9 @@
+Campaign (cam-prefixed) functions missing from the official documentation documentation
+
+camSetExtraObjectiveMessage(_("message here")) found in cam2-1x.js line 111
+camAbsorbPlayer(who, to)
+camHackIntoPlayer(player, to)
+camSetNexusState(flag)
+camGetNexusState()
+camNexusLaugh()
+hackManufacture(structure, template)
