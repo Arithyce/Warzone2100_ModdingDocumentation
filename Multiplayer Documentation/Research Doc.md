@@ -95,7 +95,7 @@ For keys that accept boolean or integer boolean, removing the key is equivalent 
   - `filterParameter` `String` <br>
     - The stat parameter to filter for, go to [Filter Parameters](#filter-parameters-) below for a list of useful ones. <br>
   - `filterValue` `Varies` <br>
-    - The stat value to filter for, go to [List of weapon classes](#list-of-weapon-classes-) below for a list of weapon classes. <br>
+    - The stat value to filter for, go to [List of weapon classes](#list-of-classes-) below for a list of weapon classes. <br>
   - `parameter`* `String` <br>
     - The parameter to be modified. See `Upgrade Parameter Doc.md` for a list. <br>
   - `value`* `Varies` <br>
