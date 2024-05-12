@@ -87,7 +87,7 @@ For keys that accept boolean or integer boolean, removing the key is equivalent 
 - `resultStructures` `String Array` <br>
   - Structures to be made available. The values must be in an array. <br>
 - `resultComponents` `String` <br>
-  - Components to be made available.  The values must be in an array. <br>
+  - Components to be made available. The values must be in an array. <br>
 - `results` `Null` <br>
   - Upgrades to be given, details follow. It must be an array containing an object. <br>
   - `class`* `String` <br>
@@ -118,7 +118,14 @@ You may also be interested in `Key Name Table.md`. <br>
 ### Filter Parameters <br>
 
 **Any of the parameters used in the source code work, but these are the useful ones.** <br>
+
+#### Weapon <br>
+
 `ImpactClass` `ImpactType` `Effect` `Id` <br>
+
+#### Building <br>
+
+`Type` <br>
 
 ### Body <br>
 
@@ -161,7 +168,11 @@ You may also be interested in `Key Name Table.md`. <br>
 
 ***
 
-## List of weapon classes <br>
+## List of classes <br>
+
+### Structure Types <br>
+
+`Structure` `Wall` `Generic` // `Generic` is v4.5+ only!
 
 ### Classes <br>
 
